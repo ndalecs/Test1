@@ -5,9 +5,9 @@ int main()
 {    
     int number;
 
-    cout << "Enter an integer: ";
+    cout << "Introdu un integer: ";
     cin >> number;
 
-    cout << "You entered " << number;    
+    cout << "Ai introdus " << number;    
     return 0;
 }
